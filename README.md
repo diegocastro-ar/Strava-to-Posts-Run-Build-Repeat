@@ -77,10 +77,4 @@ Para cada actividad se muestra:
 - Desnivel (m)
 - Link a Strava
 
-## Licencia
-
-GPL v2 or later
-
-## Autor
-
 Diego Castro - [diegocastro.ar](https://diegocastro.ar)

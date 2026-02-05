@@ -62,7 +62,7 @@ Las actividades importadas también aparecen en el menú **Strava** del admin.
 - ✅ Importación automática via webhook
 - ✅ Custom Post Type separado (`strava_activity`)
 - ✅ Diseño minimalista y responsive
-- ✅ No aparecen en el Home del blog
+- ✅ No aparecen en el Home del blog (Al menos asi lo queria para mi blog)
 - ✅ Muestra: distancia, tiempo, ritmo, desnivel
 - ✅ Link directo a cada actividad en Strava
 
